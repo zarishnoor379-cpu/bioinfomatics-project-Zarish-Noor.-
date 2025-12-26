@@ -1,1 +1,5 @@
-# bioinfomatics-project-Zarish-Noor.-
+Zarish Noor
+Roll no: 04032213022
+Summary: The analyzed sequence corresponds to cyclin-dependent kinase inhibitor 1 (CDKN1A/p21), a highly conserved protein involved in regulating the cell cycle. Bioinformatics analysis confirmed its protein-coding potential and correct translation. Physicochemical property analysis supported the stability and functional relevance of the protein. Phylogenetic analysis showed strong evolutionary conservation among mammalian species. RNA secondary structure prediction indicated structural flexibility. Subcellular localization tools consistently predicted nuclear localization. Protein-protein interaction analysis identified CDKN1A as a key regulatory hub in cell cycle control and DNA damage response.
+Tools used: NCBI, BLASTn, ORF Finder, ExPASy, RNAfold, PSORT, DeepLoc, InterPro, COBALT, STRING
+Acknowledgement:  I would like to express my sincere gratitude to Dr. Samina for her invaluable guidance, encouragement, and continuous support throughout this project. I am also thankful to the department and institution for providing the necessary resources and facilities. Finally, I acknowledge the online databases and bioinformatics tools that made this study possible.
